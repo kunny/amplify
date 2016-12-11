@@ -5,6 +5,22 @@ title: Ea eam nibh persecuti, partem habemus nominavi
 
 At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
 
+```java
+String str = "str"
+
+public void foo() {
+    String bar = str;
+}
+```
+
+```kotlin
+val foo = "Foo"
+
+fun foos() {
+    val bar = foo
+}
+```
+
 > Nec amet pericula dissentiet...
 >
 > Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.
